@@ -1719,6 +1719,7 @@ Start About Style One Area
 }
 
 .single-about-two-img::before {
+  display: none !important;
   content: '';
   width: 192px;
   height: 192px;
