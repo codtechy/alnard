@@ -302,7 +302,7 @@ Preloader CSS
   width: 60%;
   height: 100%;
   z-index: -1;
-  background: var(--optionalColor);
+  background: black;
   -webkit-transition: .9s;
   transition: .9s;
 }
